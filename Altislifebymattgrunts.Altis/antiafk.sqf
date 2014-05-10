@@ -4,9 +4,7 @@
   Reproduction Interdite
 */
 _uidIgnorer = [
-  "76561198132905034", //MattGrunts
-  "76561198038026131", //Steve
-  "76561198014384317" //Mike
+  "76561198132905034" //MattGrunts
 };
 
 if (getPlayerUID player in _uidIgnorer) exitWith {};
@@ -48,6 +46,8 @@ while {true} do
 				titleText ["AFK !!!","PLAIN"];
 				player setVariable["mon_argent_banque", (player getVariable "mon_argent_banque") - 20000,true];
 				nebougepas = 0;
+				sleep 10;
+				disableUserInput false;
       } else {
         nebougepas = 0;
 				titleText ["Merci d'avoir bougé pour eviter les abus !","PLAIN"];

@@ -14,10 +14,6 @@ waitUntil {alive player};
 
 execVM "whitelist\whitelist_gendarmes.sqf";
 
-player setVariable["thirstLevel",100,true];
-player setVariable["hungryLevel",100,true];
-player setVariable["dormir",100,true];
-
 _null = [] execVM = "divers\clearItemsCivils.sqf";
 _null = [] execVM = "divers\clearItemsCops.sqf";
 
@@ -30,4 +26,6 @@ execVM "niveaunourriture.sqf";
 execVM "dormir.sqf";
 execVM "remiseazerosihack.sqf";
 execVM "antiafk.sqf";
+execVM "test.sqf";
 execVM "divers\playerTags.sqf";
+execVM "divers\setupAction.sqf";

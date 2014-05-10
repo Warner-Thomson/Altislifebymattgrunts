@@ -163,7 +163,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_14";
-					description="Civil 14";
+					description="Civil 6";
 				};
 			};
 		};
@@ -185,7 +185,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_6";
-					description="Civil 6";
+					description="Civil 7";
 				};
 			};
 		};
@@ -207,7 +207,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_10";
-					description="Civil 10";
+					description="Civil 8";
 				};
 			};
 		};
@@ -229,7 +229,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_13";
-					description="Civil 13";
+					description="Civil 9";
 				};
 			};
 		};
@@ -251,7 +251,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_12";
-					description="Civil 12";
+					description="Civil 10";
 				};
 			};
 		};
@@ -295,7 +295,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_9";
-					description="Civil 9";
+					description="Civil 12";
 				};
 			};
 		};
@@ -317,7 +317,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_17";
-					description="Civil 17";
+					description="Civil 13";
 				};
 			};
 		};
@@ -339,7 +339,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_18";
-					description="Civil 18";
+					description="Civil 14";
 				};
 			};
 		};
@@ -361,7 +361,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_19";
-					description="Civil 19";
+					description="Civil 15";
 				};
 			};
 		};
@@ -383,7 +383,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_20";
-					description="Civil 20";
+					description="Civil 16";
 				};
 			};
 		};
@@ -405,7 +405,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_21";
-					description="Civil 21";
+					description="Civil 17";
 				};
 			};
 		};
@@ -427,7 +427,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_22";
-					description="Civil 22";
+					description="Civil 18";
 				};
 			};
 		};
@@ -449,7 +449,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_30";
-					description="Civil 30";
+					description="Civil 19";
 				};
 			};
 		};
@@ -471,7 +471,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_29";
-					description="Civil 29";
+					description="Civil 20";
 				};
 			};
 		};
@@ -493,7 +493,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_28";
-					description="Civil 28";
+					description="Civil 21";
 				};
 			};
 		};
@@ -515,7 +515,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_27";
-					description="Civil 27";
+					description="Civil 22";
 				};
 			};
 		};
@@ -537,7 +537,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_26";
-					description="Civil 26";
+					description="Civil 23";
 				};
 			};
 		};
@@ -559,7 +559,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_25";
-					description="Civil 25";
+					description="Civil 24";
 				};
 			};
 		};
@@ -581,7 +581,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_33";
-					description="Civil 33";
+					description="Civil 25";
 				};
 			};
 		};
@@ -603,7 +603,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_34";
-					description="Civil 34";
+					description="Civil 26";
 				};
 			};
 		};
@@ -625,7 +625,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_35";
-					description="Civil 35";
+					description="Civil 27";
 				};
 			};
 		};
@@ -647,7 +647,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_36";
-					description="Civil 36";
+					description="Civil 28";
 				};
 			};
 		};
@@ -669,7 +669,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_37";
-					description="Civil 37";
+					description="Civil 29";
 				};
 			};
 		};
@@ -691,7 +691,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_38";
-					description="Civil 38";
+					description="Civil 30";
 				};
 			};
 		};
@@ -713,7 +713,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_46";
-					description="Civil 46";
+					description="Civil 31";
 				};
 			};
 		};
@@ -735,7 +735,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_45";
-					description="Civil 45";
+					description="Civil 32";
 				};
 			};
 		};
@@ -757,7 +757,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_44";
-					description="Civil 44";
+					description="Civil 33";
 				};
 			};
 		};
@@ -779,7 +779,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_43";
-					description="Civil 43";
+					description="Civil 34";
 				};
 			};
 		};
@@ -801,7 +801,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_42";
-					description="Civil 42";
+					description="Civil 35";
 				};
 			};
 		};
@@ -823,7 +823,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_41";
-					description="Civil 41";
+					description="Civil 36";
 				};
 			};
 		};
@@ -845,7 +845,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_7";
-					description="Civil 7";
+					description="Civil 37";
 				};
 			};
 		};
@@ -867,7 +867,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_15";
-					description="Civil 15";
+					description="Civil 38";
 				};
 			};
 		};
@@ -889,7 +889,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_23";
-					description="Civil 23";
+					description="Civil 39";
 				};
 			};
 		};
@@ -911,7 +911,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_31";
-					description="Civil 31";
+					description="Civil 40";
 				};
 			};
 		};
@@ -933,7 +933,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_39";
-					description="Civil 39";
+					description="Civil 41";
 				};
 			};
 		};
@@ -955,7 +955,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_47";
-					description="Civil 47";
+					description="Civil 42";
 				};
 			};
 		};
@@ -977,7 +977,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_48";
-					description="Civil 48";
+					description="Civil 43";
 				};
 			};
 		};
@@ -999,7 +999,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_40";
-					description="Civil 40";
+					description="Civil 44";
 				};
 			};
 		};
@@ -1021,7 +1021,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_32";
-					description="Civil 32";
+					description="Civil 45";
 				};
 			};
 		};
@@ -1043,7 +1043,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_24";
-					description="Civil 24";
+					description="Civil 46";
 				};
 			};
 		};
@@ -1065,7 +1065,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_16";
-					description="Civil 16";
+					description="Civil 47";
 				};
 			};
 		};
@@ -1087,7 +1087,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_8";
-					description="Civil 8";
+					description="Civil 48";
 				};
 			};
 		};
@@ -1109,7 +1109,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_56";
-					description="Civil 56";
+					description="Civil 49";
 				};
 			};
 		};
@@ -1131,7 +1131,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_55";
-					description="Civil 55";
+					description="Civil 50";
 				};
 			};
 		};
@@ -1153,7 +1153,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_54";
-					description="Civil 54";
+					description="Civil 51";
 				};
 			};
 		};
@@ -1175,7 +1175,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_53";
-					description="Civil 53";
+					description="Civil 52";
 				};
 			};
 		};
@@ -1197,7 +1197,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_52";
-					description="Civil 52";
+					description="Civil 53";
 				};
 			};
 		};
@@ -1219,7 +1219,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_51";
-					description="Civil 51";
+					description="Civil 54";
 				};
 			};
 		};
@@ -1241,7 +1241,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_50";
-					description="Civil 50";
+					description="Civil 55";
 				};
 			};
 		};
@@ -1263,7 +1263,7 @@ class Mission
 					skill=0.60000002;
 					ammo=0;
 					text="Civ_49";
-					description="Civil 49";
+					description="Civil 56";
 				};
 			};
 		};

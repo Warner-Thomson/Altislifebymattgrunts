@@ -39,6 +39,7 @@ _ListeGendarmes = [
 if (player in _ListeGendarmes) then
 {
   _uidListeGendarmes = [
+	"76561198132905034", //MattGrunts
     "76561198038026131", //Steve
     "76561198014384317" //Mike
   ];

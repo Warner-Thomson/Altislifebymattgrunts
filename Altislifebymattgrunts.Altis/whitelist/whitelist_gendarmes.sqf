@@ -40,8 +40,8 @@ if (player in _ListeGendarmes) then
 {
   _uidListeGendarmes = [
 	"76561198132905034", //MattGrunts
-    "76561198038026131", //Steve
-    "76561198014384317" //Mike
+	"76561198038026131", //Steve
+	"76561198014384317" //Mike
   ];
   if (getPlayerUID player in _uidListeGendarmes) then
   {
@@ -54,7 +54,7 @@ if (player in _ListeGendarmes) then
       sleep 0.045;
       player addUniform "U_Rangemaster";
       sleep 1;
-      player setObjectTextureGlobal [0, "textures\gendarmerie_uniform_base.jpg"];
+      player setObjectTextureGlobal[0, "textures\gendarmerie_uniform_base.jpg"];
     };
     
     _civil = [Cop_17,Cop_18,Cop_19,Cop_20,Cop_21,Cop_22,Cop_23,Cop_24];
